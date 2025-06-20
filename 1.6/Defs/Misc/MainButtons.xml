@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <MainButtonDef>
+    <defName>EntityCodex</defName>
+    <label>entity codex</label>
+    <description>Open the entity codex.</description>
+    <workerClass>EntityCodexFixed.MainButtonWorker_AnomalyCodexTab</workerClass>
+    <order>101</order>
+    <validWithoutMap>true</validWithoutMap>
+    <minimized>True</minimized>
+    <iconPath>UI/Buttons/MainButtons/AnomalyCodex</iconPath>
+  </MainButtonDef>
+</Defs>
